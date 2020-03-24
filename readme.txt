@@ -1,7 +1,7 @@
 Individual Git Assignment
 Due April, Monday 6th at 11:59 pm
 
-
+Part 1:
 1-	Create a new remote repository named firstname.lastname. You can add numbers if needed.
 2-	Add me to your repository as a collaborator so I can access it and grade the exercise
 3-	Watch the LinkedIn Git essential training and my two tutorials on Kaltura before attempting to work on this individual assignment. 
@@ -26,7 +26,13 @@ Due April, Monday 6th at 11:59 pm
 22-	Open the Test file and accept both changes
 23-	Stage and commit using the message “Merge change 2 on MyBranch into change 2 on master”
 24-	Push to the remote repository
+Part 2:
 25-	Go my 3860Spring2020 remote repository
 26-	Clone it
 27-	Locally add a txt file named yourfirstname.lastname
 28-	Stage, commit and push to 3860Spring2020
+29-	Access the classist file. On a separate line  add your name to the existing class list
+30-	Stage, commit, push
+31-	If this result in merge conflict, fix it to avoid deleting some else name. 
+32-	If delete someone else name accidently they will lose credits for the second part of this assignment.
+33-	Stage, commit, push
