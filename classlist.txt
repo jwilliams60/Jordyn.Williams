@@ -5,7 +5,7 @@ On a separate line add your first name-last name. Don't delete the numbers.
 4-Sophie-Hoare
 5-Taylor-Williams
 6-Dennis Dalton
-7-Christopher Arackal
+7-Christopher-Arackal
 8-
 9-
 10-
