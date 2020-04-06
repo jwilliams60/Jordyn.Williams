@@ -1,4 +1,4 @@
-﻿On a separate line add your first name-last name. Don't delete the numbers.
+On a separate line add your first name-last name. Don't delete the numbers.
 1-Nga-Tran
 2-Omar-Salihbegovic
 3-Scott-Rubenstein
@@ -14,7 +14,7 @@
 13-Anas Doghaimat
 14-Turner Collins
 15-Francisco Pomaya-Ramos
-16-
+16-Asho-Issak
 17-
 18-
 19-
